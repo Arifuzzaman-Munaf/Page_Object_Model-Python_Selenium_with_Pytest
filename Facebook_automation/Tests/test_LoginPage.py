@@ -1,8 +1,8 @@
 import pytest
 
-from Facebook_automation.Config.config import TestData
-from Facebook_automation.Tests.test_base import BaseTest
-from Facebook_automation.pages.LoginPage import LoginPage
+from Facebook_automation_and_testing.Config.config import TestData
+from Facebook_automation_and_testing.Tests.test_base import BaseTest
+from Facebook_automation_and_testing.pages.LoginPage import LoginPage
 
 """This class is inherited from BaseTest class as a fixture"""
 

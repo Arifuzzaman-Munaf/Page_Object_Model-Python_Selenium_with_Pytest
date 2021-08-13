@@ -4,7 +4,7 @@ from selenium import webdriver
 # from webdriver_manager.microsoft import EdgeChromiumDriverManager
 
 
-from Facebook_automation.Config.config import TestData
+from Facebook_automation_and_testing.Config.config import TestData
 
 # decorator to create modified fixtures with parameters having the scope class
 
