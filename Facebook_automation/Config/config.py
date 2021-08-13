@@ -8,3 +8,4 @@ class TestData:
     Base_Url = "https://www.facebook.com/"
     email = "arif.qups@gmail.com"
     password = 'selenium1234'
+    page_title = "Facebook – log in or sign up"
