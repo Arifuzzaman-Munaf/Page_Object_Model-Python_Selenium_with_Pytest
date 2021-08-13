@@ -19,8 +19,8 @@ class TestLogin(BaseTest):
     def test_login_page_title(self):
         self.login_page = LoginPage(self.driver)
         assert self.login_page.get_login_page_title() == TestData.page_title
-        
-    """This method tests for login accessibilty"""
+
+    """This method tests for login accessibility"""
     def test_login(self):
         self.login_page = LoginPage(self.driver)
         self.login_page.do_login(TestData.email, TestData.password)

@@ -1,4 +1,6 @@
 from selenium.webdriver.common.by import By
+
+from Facebook_automation.Config.config import TestData
 from Facebook_automation.pages.BasePage import BasePage
 
 
@@ -12,10 +14,11 @@ class LoginPage(BasePage):
     Email = (By.ID, 'email')
     Password = (By.ID, 'pass')
     login_button = (By.XPATH,"//button[@id='u_0_d_VN']")
-    create_account_link = (By.ID, 'u_0_2_9c')
+    create_account_link = (By.XPATH, '/html/body/div[1]/div[2]/div[1]/div/div/div/div[2]/div/div[2]/a')
 
     def __init__(self, driver):
         super().__init__(driver)
+        self.driver.get(TestData.Base_Url)
 
     """All the actions of login page"""
     """This method returns the title of the page"""

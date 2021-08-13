@@ -10,3 +10,39 @@ JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1628880179117	geckodriver	INFO	Listening on 127.0.0.1:64946
+1628880182185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilepL9EIG"
+1628880182412	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilepL9EIG\\search.json.mozlz4", (void 0)))
+1628880184048	Marionette	INFO	Listening on port 64954
+1628880184205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1628880208057	Marionette	INFO	Stopped listening on port 64954
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1628880416191	geckodriver	INFO	Listening on 127.0.0.1:64104
+1628880419281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileyoYLmV"
+1628880419493	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileyoYLmV\\search.json.mozlz4", (void 0)))
+1628880421046	Marionette	INFO	Listening on port 64112
+1628880421326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1628880435264	Marionette	INFO	Stopped listening on port 64112
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628880572105	geckodriver	INFO	Listening on 127.0.0.1:50564
+1628880575165	mozrunner::runner	INFO	Running command: "C:\\P1628880575341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:1628880575379	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Te1628880577243	Marionette	INFO	Listening on port 50578
+1628880577321	RemoteAgent	WARN	TLS certificate errors will b1628880577391	RemoteAgent	WA1628880580293	Marionette	INFO	Stopped listening on port 50578
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+(NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1628880583037	geckodriver	INFO	Listening on 127.0.0.1:58716
+1628880586095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileNkhtZa"
+1628880586317	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileNkhtZa\\search.json.mozlz4", (void 0)))
+1628880587804	Marionette	INFO	Listening on port 58724
+1628880588148	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1628880600173	Marionette	INFO	Stopped listening on port 58724
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
