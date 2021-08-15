@@ -1,10 +1,12 @@
 """This class caries all the keys and details which we want to execute
 in this project"""
+
+
 class TestData:
     BaseUrl = "https://www.rokomari.com/book"
     executable_path = "F:\\GitHub\\WebDrivers\\geckodriver"
-    email ="arifuzzamanmunaf@gmail.com"
-    password = "Rokomari@Password"
+    email = "arifuzzamanmunaf@gmail.com"
+    password = "Rokomari@Munaf"
 
 # from selenium.webdriver.common.by import By
 # import time
