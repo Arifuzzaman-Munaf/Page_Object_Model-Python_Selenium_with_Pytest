@@ -5,8 +5,8 @@ in this project"""
 class TestData:
     BaseUrl = "https://www.rokomari.com/book"
     executable_path = "F:\\GitHub\\WebDrivers\\geckodriver"
-    email = "arifuzzamanmunaf@gmail.com"
-    password = "Rokomari@Munaf"
+    email = ""
+    password = ""
 
 # from selenium.webdriver.common.by import By
 # import time

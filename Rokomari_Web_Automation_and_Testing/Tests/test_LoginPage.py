@@ -13,3 +13,5 @@ class TestLogin(BaseTest):
     def test_login(self):
         self.login_page = LoginPage(self.driver)
         self.login_page.do_login(TestData.email, TestData.password)
+        if len(TestData.email)==0 and len(TestData.email)==0:
+            assert False

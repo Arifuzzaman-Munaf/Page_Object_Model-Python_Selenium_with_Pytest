@@ -18,7 +18,7 @@ class BasePage:
 
     """This method is used for sending information to the website"""
     def do_send_keys(self, locator, text):
-        WebDriverWait(self.driver, 10).until(exp.visibility_of_element_located(locator)).send_keys(text)
+         WebDriverWait(self.driver, 10).until(exp.visibility_of_element_located(locator)).send_keys(text)
 
     """this method helps to hover elements"""
     def do_hover_elements(self, locator):

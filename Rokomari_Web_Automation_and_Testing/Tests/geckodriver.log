@@ -216,3 +216,105 @@ JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILU
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1629018673091	geckodriver	INFO	Listening on 127.0.0.1:53142
+1629018676056	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilemYaZwq"
+1629018676447	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilemYaZwq\\search.json.mozlz4", (void 0)))
+1629018678746	Marionette	INFO	Listening on port 53150
+1629018679228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1629018693084	Marionette	INFO	Stopped listening on port 53150
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390076,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+1629018979188	geckodriver	INFO	Listening on 127.0.0.1:54852
+1629018982272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofiledeOflh"
+1629018982485	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofiledeOflh\\search.json.mozlz4", (void 0)))
+1629018983981	Marionette	INFO	Listening on port 54860
+1629018984316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1629018997121	Marionette	INFO	Stopped listening on port 54860
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629019029908	geckodriver	INFO	Listening on 127.0.0.1:57998
+1629019032973	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile6b9igu"
+1629019033188	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile6b9igu\\search.json.mozlz4", (void 0)))
+1629019034630	Marionette	INFO	Listening on port 58007
+1629019035022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1629019048771	Marionette	INFO	Stopped listening on port 58007
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629019070479	geckodriver	INFO	Listening on 127.0.0.1:54312
+1629019073572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileK7WxbE"
+1629019073792	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileK7WxbE\\search.json.mozlz4", (void 0)))
+1629019075255	Marionette	INFO	Listening on port 54320
+1629019075595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+[Child 9824, MediaDecoderStateMachine #1] WARNING: 1f1c4545120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+1629019090423	Marionette	INFO	Stopped listening on port 54320
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629019110693	geckodriver	INFO	Listening on 127.0.0.1:54420
+1629019113787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileUT6PCs"
+1629019114011	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileUT6PCs\\search.json.mozlz4", (void 0)))
+1629019115435	Marionette	INFO	Listening on port 54428
+1629019115832	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+[Child 10004, MediaDecoderStateMachine #1] WARNING: 135139f7e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+1629019133187	Marionette	INFO	Stopped listening on port 54428
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1629019258144	geckodriver	INFO	Listening on 127.0.0.1:63500
+1629019261207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilemWkLsa"
+1629019261419	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofilemWkLsa\\search.json.mozlz4", (void 0)))
+1629019262917	Marionette	INFO	Listening on port 63508
+1629019263247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+[Child 7520, MediaDecoderStateMachine #1] WARNING: 1b99b46d040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+1629019278217	Marionette	INFO	Stopped listening on port 63508
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629019297474	geckodriver	INFO	Listening on 127.0.0.1:55360
+1629019300570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileoxDdwt"
+1629019300819	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileoxDdwt\\search.json.mozlz4", (void 0)))
+1629019302633	Marionette	INFO	Listening on port 55962
+1629019302713	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 208: unreachable code after return statement
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1629019315497	Marionette	INFO	Stopped listening on port 55962
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
