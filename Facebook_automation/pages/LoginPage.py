@@ -1,8 +1,8 @@
 from selenium.webdriver.common.by import By
 
-from Facebook_automation_and_testing.Config.config import TestData
-from Facebook_automation_and_testing.pages.BasePage import BasePage
-
+from Facebook_automation.Config.config import TestData
+from Facebook_automation.pages.BasePage import BasePage
+from Facebook_automation.pages.HomePage import HomePage
 
 """creating Login page class for executing automation"""
 """This page inherits BasePage for all the methods it needs"""
@@ -34,4 +34,6 @@ class LoginPage(BasePage):
         self.do_send_keys(self.Email, username)
         self.do_send_keys(self.Password, password)
         self.do_click(self.login_button)
+
+        return HomePage(self.driver)
 

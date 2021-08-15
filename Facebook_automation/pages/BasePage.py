@@ -8,7 +8,7 @@ from selenium.webdriver.support import expected_conditions as exp
 It contains all the common methods and utilities for other page classes"""
 
 
-class BasePage():
+class BasePage:
     def __init__(self, driver):
         self.driver = driver
 
