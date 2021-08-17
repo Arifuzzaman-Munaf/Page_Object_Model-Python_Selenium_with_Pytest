@@ -4,6 +4,7 @@ from selenium.webdriver import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as exp
 import allure
+from allure_commons.types import AttachmentType
 
 """This class is the parent class of all pages
 It contains all the common methods and utilities for other page classes"""
@@ -27,8 +28,10 @@ class BasePage:
     #     action = WebDriverWait(self.driver, 10).until(exp.visibility_of_element_located(locator))
     #     hover.move_to_element(action).perform()
 
-    def get_screenshot(self):
-        allure.attach()
+    """"""
+    def get_screenshot(self, filename):
+        allure.attach(self.driver.get_screenshot_as_png(), name= filename,
+                      attachment_type = AttachmentType.PNG)
 
 
 

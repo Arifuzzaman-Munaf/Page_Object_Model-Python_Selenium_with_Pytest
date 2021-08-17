@@ -566,3 +566,36 @@ JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-des
 JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
 1629218859272	Marionette	INFO	Stopped listening on port 64714
 JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629226417699	geckodriver	INFO	Listening on 127.0.0.1:61193
+1629226420733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileEjnIQU"
+1629226421039	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofileEjnIQU\\search.json.mozlz4", (void 0)))
+1629226422526	Marionette	INFO	Listening on port 61202
+1629226422786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 212: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 212: unreachable code after return statement
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 212: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 212: unreachable code after return statement
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 212: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 212: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 212: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 212: unreachable code after return statement
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.rokomari.com/book line 1 > injectedScript, line 945: TypeError: r is null
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.rokomari.com/book line 1 > injectedScript, line 945: TypeError: r is null
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+1629226468412	Marionette	INFO	Stopped listening on port 61202
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]

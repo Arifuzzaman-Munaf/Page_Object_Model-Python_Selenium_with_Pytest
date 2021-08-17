@@ -28,5 +28,6 @@ class LoginPage(BasePage):
         time.sleep(1)
         self.do_click(Locators.sign_in_button)
 
-
+    def screenshot(self, filename):
+        self.get_screenshot(filename)
 
