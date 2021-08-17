@@ -318,3 +318,18 @@ JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-des
 JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
 1629019315497	Marionette	INFO	Stopped listening on port 55962
 JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1629214877607	geckodriver	INFO	Listening on 127.0.0.1:64713
+1629214880691	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile0y16Va"
+1629214881203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\USER\\AppData\\Local\\Temp\\rust_mozprofile0y16Va\\search.json.mozlz4", (void 0)))
+1629214883411	Marionette	INFO	Listening on port 64721
+1629214883885	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 212: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtm.js?id=GTM-TGQ3P6, line 212: unreachable code after return statement
+JavaScript error: https://www.rokomari.com/static/200/dist/desktop/js/common-desktop.js, line 20: TypeError: document.getElementById(...) is null
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1629214898883	Marionette	INFO	Stopped listening on port 64721
+JavaScript error: resource:///modules/Interactions.jsm, line 209: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
