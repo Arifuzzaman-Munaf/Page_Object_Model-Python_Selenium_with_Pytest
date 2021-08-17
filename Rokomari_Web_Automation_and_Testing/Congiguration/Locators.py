@@ -6,5 +6,5 @@ class Locators :
     sign_in_navigator = (By.CSS_SELECTOR, ".logged-out-user-menu-btn")  # by css selector
     email = (By.XPATH, "//input[@id='j_username']")  # by XPath
     password = (By.XPATH, "//input[@id='j_password']")  # by XPath
-    sign_in_button = (By.XPATH, "/html/body/header/div/div/div/div/div[3]/div/div[2]/div/form/button")  # by XPath
+    sign_in_button = (By.XPATH, "/html/body/header/div/div/div/div/div[3]/div/div[2]/a")  # by XPath
 

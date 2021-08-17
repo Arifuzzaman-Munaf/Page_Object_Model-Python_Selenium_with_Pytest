@@ -21,11 +21,11 @@ class LoginPage(BasePage):
 
     """this method helps to login into profile"""
     def do_login(self, Email, Password):
-        self.do_hover_elements(Locators.sign_in_navigator)
-        time.sleep(3)
+        self.do_click(Locators.sign_in_navigator)
+        time.sleep(1)
         self.do_send_keys(Locators.email, Email)
         self.do_send_keys(Locators.password, Password)
-        time.sleep(3)
+        time.sleep(1)
         self.do_click(Locators.sign_in_button)
 
 
